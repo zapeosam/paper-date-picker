@@ -5,6 +5,8 @@ paper-date-picker
 
 Material Design date picker, compatible with *Polymer 1.0*
 
+Made compatible with Polymer 2.0
+
 Provides a responsive date picker based on the material design spec. This
 component aims to be a clone of the date picker introduced in Android Lollipop.
 
